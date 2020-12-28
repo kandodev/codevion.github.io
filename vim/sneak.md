@@ -1,5 +1,5 @@
 # Sneak.vim
-See it in action:
+See it in action: http://www.youtube.com/watch?v=VO1f5nsckMc
 [](http://www.youtube.com/watch?v=VO1f5nsckMc)
 
 * Plug install: `Plug 'justinmk/vim-sneak'`
@@ -9,5 +9,5 @@ See it in action:
 * `;` to go forward on matches, `,` to go backwards
 * `<C-o>` to jump back to initial cursor position
 
-## Links:
+### Links:
 * https://github.com/justinmk/vim-sneak
