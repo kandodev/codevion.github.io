@@ -1,6 +1,6 @@
 # Sneak.vim
-See it in action: http://www.youtube.com/watch?v=VO1f5nsckMc
-[](http://www.youtube.com/watch?v=VO1f5nsckMc)
+See it in action: https://www.youtube.com/watch?v=VO1f5nsckMc
+[](https://www.youtube.com/watch?v=VO1f5nsckMc)
 
 * Plug install: `Plug 'justinmk/vim-sneak'`
 * Enable label mode: `let g:sneak#label = 1`
