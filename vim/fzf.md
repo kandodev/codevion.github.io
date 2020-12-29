@@ -1,4 +1,7 @@
 # fzf 
+* Youtube video: https://www.youtube.com/watch?v=DpURGnb4Fyk
+[](https://www.youtube.com/watch?v=DpURGnb4Fyk)
+
 * Plugin: https://github.com/junegunn/fzf.vim
 ```
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
