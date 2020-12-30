@@ -30,7 +30,7 @@
 * Enable C++17, add a `.ccls` file in project root with:
 ```
 clang++
-%cpp -std=c++17
+%h %cpp -std=c++17
 ```
 * Go through example CoC keybindings:
   * Tab for completion
