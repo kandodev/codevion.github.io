@@ -1,4 +1,7 @@
 # coc for C++ setup
+
+[](https://www.youtube.com/watch?v=ViHgyApE9zM)
+
 * Language servers:
   * [ccls](https://github.com/MaskRay/ccls)
   * [clangd](https://clangd.llvm.org/installation.html)
