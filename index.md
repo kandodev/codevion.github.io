@@ -6,6 +6,7 @@
 
 ## C++ development
 * [C++ coc.nvim](vim/coc.md)
+* [C++ 2: CMake, GTest, Full IDE experience](vim/cpp2.md)
 
 
 _I'll have more cool stuff coming here soon!_

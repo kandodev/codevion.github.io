@@ -1,4 +1,7 @@
 ## Vim-floaterm
+
+![](https://www.youtube.com/watch?v=QzlwC-AUY-U)
+
 * Plugin: https://github.com/voldikss/vim-floaterm
 * Install: `Plug 'voldikss/vim-floaterm'`
 * For neovim, also install `pip3 install neovim-remote` to allow floaterm to open windows inside neovim
