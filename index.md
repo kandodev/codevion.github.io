@@ -3,6 +3,7 @@
 * [sneak.vim](vim/sneak.md)
 * [fzf.vim](vim/fzf.md)
 * [vim-floaterm](vim/floaterm.md)
+* [vim-startify](vim/startify.md)
 
 ## C++ development
 * [C++ coc.nvim](vim/coc.md)

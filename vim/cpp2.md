@@ -1,5 +1,7 @@
 ### (Neo)vim for C++ Part 2: CMake, GTest, File Explorer, etc
 
+[](https://www.youtube.com/watch?v=Y_UubM5eYAM)
+
 #### Pre-requisites:
   * [Neovim for C++ 1: CoC](coc.md)
   * [fzf](fzf.md)
