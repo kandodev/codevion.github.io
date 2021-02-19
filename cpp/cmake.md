@@ -33,7 +33,7 @@
   * Now the CMake source explicitly [discourages this](https://cmake.org/cmake/help/latest/command/file.html#filesystem) but the "alternative" of listing every source file or using some other build system that generates your CMakeLists.txt files is perhaps even more cumbersome. So knowing all that, I'd recommend continuing to use glob until some sane alternative shows up:
 
   ```cmake
-  file(GLOB_RECURSE SRC_FILES src/*.cpp)
+  file(GLOB_RECURSE SRC_FILES src/*.cpp CONFIGURE_DEPENDS)
   add_executable(hello ${SRC_FILES})
   ```
 
