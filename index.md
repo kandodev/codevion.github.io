@@ -5,12 +5,15 @@
 
 ## Linux stuff
 * [tmux](linux/tmux.md)
+* [emacs org mode](emacs.md)
+* [rofi](linux/rofi.md)
 
 ## Vim plugins
 * [sneak.vim](vim/sneak.md)
 * [fzf.vim](vim/fzf.md)
 * [vim-floaterm](vim/floaterm.md)
 * [vim-startify](vim/startify.md)
+* [ultisnips](vim/ultisnips.md)
 
 ## C++ development
 * [C++ coc.nvim](vim/coc.md)
