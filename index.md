@@ -14,6 +14,7 @@
 * [vim-floaterm](vim/floaterm.md)
 * [vim-startify](vim/startify.md)
 * [ultisnips](vim/ultisnips.md)
+* [telescope](vim/telescope.md)
 
 ## C++ development
 * [C++ coc.nvim](vim/coc.md)
