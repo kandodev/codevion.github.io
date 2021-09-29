@@ -8,7 +8,10 @@
 * [emacs org mode](emacs.md)
 * [rofi](linux/rofi.md)
 
-## Vim plugins
+## Vim/Neovim stuff
+* [Basic lua configuration for Neovim](vim/lua_basic.md)
+
+### Plugins
 * [sneak.vim](vim/sneak.md)
 * [fzf.vim](vim/fzf.md)
 * [vim-floaterm](vim/floaterm.md)
