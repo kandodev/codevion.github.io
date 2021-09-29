@@ -1,5 +1,7 @@
 # Basic Lua Configuration for Neovim
-Based on video in https://www.youtube.com/watch?v=ppMX4LHIuy4
+
+* Based on video in https://www.youtube.com/watch?v=ppMX4LHIuy4
+[](https://www.youtube.com/watch?v=ppMX4LHIuy4)
 
 ## Set basic configurations
 ```
