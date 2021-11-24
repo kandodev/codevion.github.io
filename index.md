@@ -10,6 +10,7 @@
 
 ## Vim/Neovim stuff
 * [Basic lua configuration for Neovim](vim/lua_basic.md)
+* [Basic lua configuration for Neovim - Part 2](vim/lua_basic2.md)
 
 ### Plugins
 * [sneak.vim](vim/sneak.md)
