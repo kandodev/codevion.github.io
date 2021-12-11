@@ -1,3 +1,4 @@
+## Treesitter
 * What is tree sitter?
 * Add using `use 'nvim-treesitter/nvim-treesitter'`
 * Can be used for things like highlighting, indentation, folding. Each module needs to be explicitly enabled. We configure it like so:
@@ -20,6 +21,7 @@ vim.opt.foldexpr = "nvim_treesitter#foldexpr()"
 ```
 * There's some plugins like https://github.com/JoosepAlviste/nvim-ts-context-commentstring that allow for smarter commenting based on deeper syntax for UI related code with multiple languages in the same file, etc.
 
+## Neovim LSP
 * After tree sitter, we'll install lspconfig `use 'neovim/nvim-lspconfig'`
 * The thing about the lsp configuration is that it works with an LSP in the backend and then we require the ability to map that LSP's functionality to the neovim lsp config. We'll dive into how some of those work in future videos, but we'll start with a simple approach, use `use 'williamboman/nvim-lsp-installer'` instead.
 * So let's set this up:
