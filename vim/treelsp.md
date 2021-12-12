@@ -36,7 +36,7 @@ end)
 * Finally, before we can start using it, let's set up some keymaps:
 ```
 nkeymap('gd', ':lua vim.lsp.buf.definition()<cr>')
-nkeymap('gd', ':lua vim.lsp.buf.declaration()<cr>')
+nkeymap('gD', ':lua vim.lsp.buf.declaration()<cr>')
 nkeymap('gi', ':lua vim.lsp.buf.implementation()<cr>')
 nkeymap('gw', ':lua vim.lsp.buf.document_symbol()<cr>')
 nkeymap('gw', ':lua vim.lsp.buf.workspace_symbol()<cr>')
@@ -67,10 +67,6 @@ nkeymap('<leader>rn', ':lua vim.lsp.buf.rename()<cr>')
     end
 ```
 * A few quirks I've noticed, pressing `esc` or `ctrl+[` tends to trigger immediate updates, but `ctrl+c` does not
-* Working keymaps:
-  * `Shift+K` to see definition. Especially useful when looking at lua objects
-  * `gr` to see references
-  * `gt` to see type definition
-  * `\rn` to rename
+
 
 
