@@ -55,6 +55,7 @@ Something else
 * Best bet is to take an existing theme like the dracula theme: https://github.com/dracula/marp
 * Then you can run it `marp marp.md --theme marp/dracula/dracula.css  --allow-local-files --watch --pdf`
 * You can just change the main colors at the top to match a different theme
+* PS: I uploaded my [gruvbox_marp.css](gruvbox_marp.css) file.
 
 ---
 ## Limitations
