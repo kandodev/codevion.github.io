@@ -7,6 +7,7 @@
 * [tmux](linux/tmux.md)
 * [emacs org mode](emacs.md)
 * [rofi](linux/rofi.md)
+* [markdown presentation](linux/marp.md)
 
 ## Vim/Neovim stuff
 * [Basic lua configuration for Neovim](vim/lua_basic.md)
