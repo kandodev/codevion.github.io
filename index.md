@@ -23,6 +23,7 @@
 * [telescope](vim/telescope.md)
 
 ## C++ development
+* [C++ Neovim LSP IDE](vim/lsp_cpp.md)
 * [C++ coc.nvim](vim/coc.md)
 * [C++ 2: CMake, GTest, Full IDE experience](vim/cpp2.md)
 * [CMake Tutorial](cpp/cmake.md)
